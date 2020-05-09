@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Handle State Changes in Custom View</string>
+    <string name="load_data">Load Data</string>
+    <string name="hint_title">Empty data</string>
+    <string name="hint_description">Please click the button to load the data</string>
+
+    <string name="sample_title">Google Developer Experts</string>
+    <string name="sample_description">Person recognized by Google Inc. as having exemplary expertise in one or more of their Google Developers products. GDEs are awarded through the Google Developers Experts program established and administered by Google.</string>
+</resources>

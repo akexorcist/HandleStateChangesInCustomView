@@ -1,0 +1,21 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Text">
+        <item name="android:textColor">@color/gray_800</item>
+    </style>
+
+    <style name="Text.Title">
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="Text.Description">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+</resources>

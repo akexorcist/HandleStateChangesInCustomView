@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Non-inherited Custom View -->
+    <declare-styleable name="PostView">
+        <attr name="spv_title" format="string" />
+        <attr name="spv_description" format="string" />
+        <attr name="spv_dividerColor" format="color" />
+    </declare-styleable>
+
+    <!-- Inherited Custom View -->
+    <declare-styleable name="BasePostView">
+        <attr name="ipv_title" format="string" />
+        <attr name="ipv_description" format="string" />
+    </declare-styleable>
+
+    <declare-styleable name="RegularPostView">
+        <attr name="ipv_dividerColor" format="color" />
+    </declare-styleable>
+</resources>
